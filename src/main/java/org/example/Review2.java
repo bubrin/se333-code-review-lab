@@ -1,6 +1,7 @@
 package org.example;
 
-import java.awt.*;
+
+import java.awt.Dimension;
 
 public class Review2 {
     private Dimension d = new Dimension (0, 0);

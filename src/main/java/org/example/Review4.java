@@ -6,4 +6,5 @@ public class Review4 {
         if (i == null)
             throw new NullPointerException();
     }
+    //
 }
